@@ -1,6 +1,0 @@
-C:\Users\klodi\source\repos\Chess\Chess\bin\Debug\Chess.dll
-C:\Users\klodi\source\repos\Chess\Chess\bin\Debug\Chess.pdb
-C:\Users\klodi\source\repos\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
-C:\Users\klodi\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
-C:\Users\klodi\source\repos\Chess\Chess\obj\Debug\Chess.dll
-C:\Users\klodi\source\repos\Chess\Chess\obj\Debug\Chess.pdb
